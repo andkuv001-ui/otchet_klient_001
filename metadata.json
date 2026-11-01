@@ -1,0 +1,6 @@
+{
+  "name": "NicheReport 2.0 · Аудиты Авито по Google Таблицам",
+  "description": "Формирование интерактивных коммерческих отчетов и аудитов Авито на основе Google Таблиц с парсингом поисковой выдачи по ключевику и региону с экспортом в эталонный HTML",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
